@@ -20,9 +20,10 @@ I'm a developer focused on creating modern web applications with clean code and 
 ### 🛠️ Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **Frontend** | React, Vite, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Firebase |
-| **Tools** | VS Code, Git, ImageMagick, Figma |
+| **Frontend** | React, Vite, Tailwind CSS |
+| **Backend** | Node.js, PHP |
+| **Tools** | VS Code, Git, Figma |
+| **Machine Learning** | Python |
 
 ### 📊 GitHub Stats
 <p align="left">
