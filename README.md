@@ -33,7 +33,6 @@ I'm a developer focused on creating modern web applications with clean code and 
 <p align="left">
 <a href="https://instagram.com/ayereell" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 <a href="https://linkedin.com/in/farell-rhezky" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:rhezkyfarell@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 ---
